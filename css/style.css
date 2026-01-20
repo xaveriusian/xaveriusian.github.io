@@ -1313,3 +1313,13 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+.colorlib-social-icons {
+    display: flex;
+    gap: 16px;
+}
+
+.colorlib-social-icons a {
+    padding: 6px;
+}
+
